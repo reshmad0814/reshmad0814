@@ -19,7 +19,7 @@ Turning Data into Meaningful Insights 📊
 <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[(https://www.linkedin.com/in/reshma-dhadwad-707691224/)]">
+<a href="https://www.linkedin.com/in/reshma-dhadwad-707691224/">
 <img src="https://img.shields.io/badge/LinkedIn-Reshma%20Dhadwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

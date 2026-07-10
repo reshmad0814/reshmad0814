@@ -37,7 +37,7 @@ Turning Data into Meaningful Insights 📊
   <img src="./profile.png" width="320" align="right">
 </p>
 
-I am a **B.Sc. Information Technology student** specializing in **Data Science & Analytics**, passionate about transforming raw data into meaningful business insights.
+specializing in **Data Analytics**, passionate about transforming raw data into meaningful business insights.
 
 I enjoy solving real-world business problems using **Python, SQL, Power BI, Tableau, Excel, and Machine Learning** while creating interactive dashboards and data-driven reports.
 

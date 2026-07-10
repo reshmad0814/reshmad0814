@@ -19,7 +19,7 @@ Turning Data into Meaningful Insights 📊
 <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="(https://www.linkedin.com/in/reshma-dhadwad-707691224/)">
+<a href="[(https://www.linkedin.com/in/reshma-dhadwad-707691224/)]">
 <img src="https://img.shields.io/badge/LinkedIn-Reshma%20Dhadwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -34,12 +34,12 @@ Turning Data into Meaningful Insights 📊
 ## 🚀 About Me
 
 <p align="right">
-  <img src="./profile.png" width="320" align="right">
+  <img src="./assets/data-analyst.svg" width="320" alt="Data Analyst Illustration">
 </p>
 
-specializing in **Data Analytics**, passionate about transforming raw data into meaningful business insights.
+I am a passionate **Data Analytics enthusiast** with a strong interest in transforming raw data into meaningful insights that drive business decisions. I enjoy solving real-world problems through data analysis, visualization, and storytelling, helping organizations uncover trends, optimize performance, and make informed decisions.
 
-I enjoy solving real-world business problems using **Python, SQL, Power BI, Tableau, Excel, and Machine Learning** while creating interactive dashboards and data-driven reports.
+With hands-on experience in **Python, SQL, Power BI, Tableau, Excel, and Machine Learning**, I have built end-to-end analytics projects involving data cleaning, exploratory data analysis (EDA), statistical analysis, dashboard development, database design, and predictive modeling. I am continuously expanding my analytical and technical skills while applying best practices to deliver accurate, data-driven solutions.
 
 ### 🎯 What I Do
 
@@ -194,15 +194,6 @@ Power BI • DAX • Excel
 
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=reshmad0814&theme=algolia&row=1&column=7"/>
-
-</p>
 
 ---
 
